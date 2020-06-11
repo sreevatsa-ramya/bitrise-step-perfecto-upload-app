@@ -6,8 +6,8 @@ app:
     # If you want to share this step into a StepLib
     - BITRISE_STEP_ID: perfecto-upload
     - BITRISE_STEP_VERSION: "0.0.1"
-    - BITRISE_STEP_GIT_CLONE_URL: https://github.com/PerfectoCode/Bitrise_Perfecto_FileUpload.git
-    - MY_STEPLIB_REPO_FORK_GIT_URL: https://github.com/PerfectoCode/bitrise-steplib
+    - BITRISE_STEP_GIT_CLONE_URL: https://github.com/sreevatsa-ramya/bitrise-step-perfecto-upload-app.git
+    - MY_STEPLIB_REPO_FORK_GIT_URL: https://github.com/sreevatsa-ramya/bitrise-steplib
 
 workflows:
   test:
