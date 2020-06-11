@@ -3,9 +3,9 @@ summary: |
   Upload APK/IPA files to Perfecto cloud repository
 description: |
   Upload your build files to Perfecto for remote device testing. Upload your IPA/APK file to Perfecto repository
-source_code_url: https://github.com/PerfectoCode/Bitrise_Perfecto_FileUpload
-support_url: https://github.com/PerfectoCode/Bitrise_Perfecto_FileUpload/issues
-website: https://github.com/PerfectoCode/Bitrise_Perfecto_FileUpload
+source_code_url: https://github.com/sreevatsa-ramya/bitrise-step-perfecto-upload-app
+support_url: https://github.com/sreevatsa-ramya/bitrise-step-perfecto-upload-app/issues
+website: https://github.com/sreevatsa-ramya/bitrise-step-perfecto-upload-app
 source:
   git: 
   commit: 
